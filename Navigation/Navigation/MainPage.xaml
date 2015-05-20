@@ -8,7 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="#FF5966E2">
-        <TextBlock x:Name="txbTitulo" HorizontalAlignment="Left" Margin="95,47,0,0" TextWrapping="Wrap" Text="Aplicativo Multiplas Telas" VerticalAlignment="Top" FontSize="32"/>
+        <TextBlock x:Name="txbTitulo" HorizontalAlignment="Left" Margin="95,47,0,0" TextWrapping="Wrap" Text="Aplicativo Multiplas Telas"
+                   VerticalAlignment="Top" FontSize="32"/>
 
     </Grid>
 </Page>
