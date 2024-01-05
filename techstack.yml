@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/Demo_S2B
 report_id: 33037dd81c0ae472bc9c41bf6ea0532b
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:47:41+00:00'
+timestamp: '2024-01-05T08:31:03+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/Demo_S2B
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/Demo_S2B
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/Demo_S2B/blob/master/Components/Components.sln
   detection_source: Components/Components.sln
   last_updated_by: Maurilio Filho
   last_updated_on: 2015-05-17 13:19:02.000000000 Z
